@@ -1,0 +1,17 @@
+{
+  "Version": "1.0.1",
+  "Files": [
+    {
+      "Name": "net8.0-windows.zip",
+      "Url": "http://26.124.180.13/updates/net8.0-windows.zip",
+      "Sha256": "969fb106b78342e7a6a3eb4a6838c9d902f51b40df0be836a183e22cfba3106c",
+      "LastModified": "2025-03-26T09:00:16.8164322Z"
+    },
+    {
+      "Name": "runtimes.zip",
+      "Url": "http://26.124.180.13/updates/runtimes.zip",
+      "Sha256": "df663250f25fa4d5fa1cc8a5d9f114c91b4f1d9e2ae30f01652aad2bd959eda9",
+      "LastModified": "2025-03-26T08:58:44.1416029Z"
+    }
+  ]
+}
